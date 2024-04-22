@@ -1,8 +1,4 @@
-# React + Vite
+Aplicação de um Cardápio Digital oferecendo ao usuário uma experiência dinâmica para seleção de pratos, sobremesas e bebidas.
+Utilizando React para facilitar a interação do usuário permitindo uma navegação intuitiva entre as opções do menu.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Conhecimento adquirido em um curso da Hashtag Treinamentos.
